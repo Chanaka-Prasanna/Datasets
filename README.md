@@ -13,43 +13,6 @@ My blog covers a wide range of topics, including data science, machine learning,
 - [GitHub Profile](https://github.com/Chanaka-Prasanna)
 - [Contact Me](mailto:chanakapinfo@gmail.com)
 
-## 📂 Repository Structure
-
-The repository is organized as follows:
-
-
-Certainly! Here's the README content formatted for direct copy-pasting:
-
-markdown
-Copy code
-# 🌟 My Blog's Notebooks and Datasets Repository
-
-Welcome to the official repository for my blog! Here, you'll find all the Jupyter notebooks and datasets associated with my blog posts. This repository is designed to help you explore, understand, and experiment with the concepts discussed on my blog.
-
-## 📚 Blog Overview
-
-My blog covers a wide range of topics, including data science, machine learning, deep learning, data visualization, and more. Each blog post is accompanied by practical examples and datasets that you can find in this repository.
-
-## 🔗 Quick Links
-
-- [Blog Home](https://your-blog-link.com)
-- [GitHub Profile](https://github.com/your-username)
-- [Contact Me](mailto:your-email@example.com)
-
-## 📂 Repository Structure
-
-The repository is organized as follows:
-
-/
-├── post-1/
-│ ├── notebook-1.ipynb
-│ └── dataset-1.csv
-├── post-2/
-│ ├── notebook-2.ipynb
-│ └── dataset-2.csv
-└── ...
-├── README.md
-└── LICENSE
 
 ## 📊 Datasets
 
