@@ -1,4 +1,4 @@
-# 🌟 My Blog's Notebooks and Datasets Repository
+# 🌟Notebooks and Datasets Repository for My Blogs
 
 Welcome to the official repository for my blogs! Here, you'll find all the Jupyter notebooks and datasets associated with my blog posts. This repository is designed to help you explore, understand, and experiment with the concepts discussed on my blog.
 
